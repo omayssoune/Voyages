@@ -29,6 +29,3 @@ Un projet **full-stack** moderne pour la planification intelligente et interacti
 
 ![image1](https://github.com/user-attachments/assets/d271681c-fc7c-4796-a13b-8c6bf116042e)
 
-## Structure du projet
-
-
