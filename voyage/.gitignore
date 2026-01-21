@@ -1,0 +1,17 @@
+# React / Node
+node_modules/
+dist/
+build/
+
+# Spring / Maven
+target/
+*.log
+
+# Env
+.env
+.env.*
+
+# IDE
+.vscode/
+.idea/
+.DS_Store
