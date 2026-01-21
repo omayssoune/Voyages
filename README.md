@@ -2,8 +2,6 @@
 
 Un projet **full-stack** moderne pour la planification intelligente et interactive de voyages.
 
-![Aperçu de l'application](chemin/vers/ton-image.jpg)  
-*(capture d'écran principale ou GIF de démonstration – remplace le chemin par le vrai)*
 
 ## Technologies utilisées
 
@@ -29,9 +27,7 @@ Un projet **full-stack** moderne pour la planification intelligente et interacti
 
 ## Aperçu de l’application
 
-"C:\Users\W11\Desktop\image1.jpeg"
-
-*(tu peux remplacer par 1 grande image ou 2–4 captures côte à côte)*
+![image1](https://github.com/user-attachments/assets/d271681c-fc7c-4796-a13b-8c6bf116042e)
 
 ## Structure du projet
 
